@@ -1,1 +1,13 @@
-theme: jekyll-theme-slate
+remote_theme: nrandecker/particle
+#site settings
+title: Martin Vazquez | Portfolio
+description: Martin Vazquez | Portfolio
+
+username: Martin Vazquez
+user_description: I love haus music
+user_title: DePaul '20 Graduate
+
+email: mvazqu37@depaul.edu
+github_username: mv4z
+
+exclude: ['package.json', 'node_modules']
