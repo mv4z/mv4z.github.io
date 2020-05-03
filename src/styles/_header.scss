@@ -16,7 +16,7 @@
 .header {
   z-index: 1;
   text-align: center;
-  color:#00E0FF;
+  color:#FFF;
   position: absolute;
   top: 50%;
   left: 50%;
@@ -37,7 +37,7 @@
     font-size: 20px;
     display: inline;
     line-height: 1;
-    color: #FFF;
+    color: #00E0FF;
     margin-top: 10px;
     @media only screen and (min-width:$cut){
       font-size: 40px;
